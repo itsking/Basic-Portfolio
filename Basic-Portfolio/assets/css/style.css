@@ -1,0 +1,118 @@
+
+body{
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	background: url('../images/background.png');
+}
+
+header{
+
+}
+
+
+nav{
+	float: right;
+
+	}
+
+.topContainer{
+	width: 100%;
+	max-width: 960px;
+	margin: 0 auto;
+
+}
+
+
+a {
+	
+	display: inline-block;
+	color: grey;
+	text-decoration: none;
+	
+}
+
+p{
+	margin-right: 20px;
+ 	margin-left: 20px;
+}
+
+h1{
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	color: white;
+	background-color: #4aaaa5;
+	height: 100px;
+	vertical-align: auto;
+}
+
+h2{
+	color:#4aaaa5;
+ 	margin-left: 20px;
+}
+
+.container{
+  width: 100%;
+  max-width: 960px;
+  margin: auto;
+  
+}
+
+#mainBio{
+	float: left;
+	width: 650px;
+	border-style: solid;
+	margin-top: 20px;
+	background-color: white;
+	background: none;
+}
+	
+#bio-image{
+	float: left;
+	width: 250x;
+  	height: 200px;
+ 	margin-right: 20px;
+ 	margin-left: 20px;
+ 	border-style: solid;
+}
+
+#sideBar {
+  width: 270px;
+  border-style: solid;
+  float: left;
+  margin-top: 0px;
+  margin-left: 32px;
+}
+
+.icon{
+	margin: auto;
+	max-width: 50px;
+	max-height: 50px;
+	width: 50px
+    height: 50px;
+}
+
+.randomPicture{
+	max-width: 270px;
+ 	width: 270px;
+ 	position: relative;
+ 	float: left;
+ 	margin-left: 20px;
+ 	margin-right: 20px;
+
+ }
+
+.randomPicture h3{
+	 background: #4aaaa5;
+	 color: #ffffff;
+	 text-align: center;
+	 position: absolute;
+	 bottom: 10px;
+	 padding: 10px;
+	 width: 270px;
+	 max-width: 270px;
+	 line-height: 30px;
+	 margin-bottom: 0;
+	 font-weight: 250;
+ }
+
+form{
+	margin-left: 20px;
+}
